@@ -1,0 +1,11 @@
+**coal** - £1.000
+**food** - £750
+**gold** - £2.500
+**iron** - £2.000
+**lead** - £700
+**petroil** - £2.500
+**steel** - £3.500
+**stone** - £1.500
+**wood** - £1.000
+
+**AI Vendor** - _Our deals are always steals!_

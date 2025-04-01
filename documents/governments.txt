@@ -1,0 +1,56 @@
+**Governments:**
+------------------ 
+
+:purple_circle: **Absolute Monarchy:** ¦ Starting Government
+```css
+- Capability to declare wars: Yes.
+- Maximum Manpower: 5%.
+- Maximum Tax Rate: 65%.
+- Civilian Actions: 10%.
+- Becomes constitutional monarchy when overthrown.
+```
+
+:orange_circle: **Constitutional Monarchy:** ¦ Starting Government
+```css
+- Capability to declare wars by vote only.
+- Maximum Manpower: 20%.
+- Maximum Tax Rate: 35%.
+- Civilian Actions: 35%.
+- Becomes democracy when overthrown.
+```
+
+:red_circle: **Communism:** ¦ Requires Tech 7
+```css
+- Capability to declare wars: Yes.
+- Maximum Manpower: 50%.
+- Maximum Tax Rate: 5%.
+- Civilian Actions: 0%.
+- Becomes absolute monarchy when overthrown.
+```
+
+:green_circle: **Socialism:** ¦ Requires Tech 7
+```css
+- Capability to declare wars by vote only.
+- Maximum Manpower: 35%.
+- Maximum Tax Rate: 15%.
+- Civilian Actions: 20%.
+- Becomes communism when overthrown.
+```
+
+:blue_circle: **Democracy:** ¦ Starting Government
+```css
+- Capability to declare wars by vote only.
+- Maximum Manpower: 25%.
+- Maximum Tax Rate: 70%.
+- Civilian Actions: 50%.
+- Becomes fascism when overthrown.
+```
+
+:brown_circle: **Fascism:** ¦ Requires Tech 7
+```css
+- Capability to declare wars: Yes.
+- Maximum Manpower: 10%.
+- Maximum Tax Rate: 70%.
+- Civilian Actions: 20%.
+- Becomes socialism when overthrown.
+```

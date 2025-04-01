@@ -1,0 +1,28 @@
+**ships_of_the_line** - 7 Wood, 3 Iron, 3 Lead, 3 Food, £3.500 ¦ 20.000 Manpower ¦ (Requires Tech 4)
+`4.000 AP - 3.500 DP - 3 MP - 5 IP`
+**first_rates** - 7 Wood, 5 Iron, 2 Lead, 3 Food, £5.000 ¦ 20.000 Manpower ¦ (Requires Tech 5)
+`5.000 AP - 5.000 DP - 4 MP - 5 IP`
+**ironclads** - 10 Iron, 5 Coal, 5 Food, £15.000 ¦ 25.000 Manpower ¦ (Requires Tech 6)
+`10.000 AP - 12.000 DP - 6 MP - 6 IP`
+**dreadnoughts** - 15 Steel, 5 Iron, 10 Petroil, 5 Food, £25.000 ¦ 35.000 Manpower ¦ (Requires Tech 7)
+`25.000 AP - 50.000 DP - 5 MP - 6 IP`
+**battleships** - 20 Steel, 5 Wood, 10 Petroil, 5 Food, £25.000 ¦ 50.000 Manpower ¦ (Requires Tech 8)
+`55.000 AP - 30.000 DP - 5 MP - 7 IP`
+**aircraft_carriers** - 25 Steel, 3 Gold, 10 Petroil, 10 Food, £30.000 ¦ 65.000 Manpower ¦ Enables Air Units At Sea ¦ (Requires Tech 9)
+`65.000 AP - 40.000 DP - 5 MP - 8 IP`
+**supercarriers** - 25 Steel, 5 Gold, 15 Petroil, 10 Food, £50.000 ¦ 65.000 Manpower ¦ Enables Air Units At Sea ¦ (Requires Tech 10)
+`75.000 AP - 50.000 DP - 5 MP - 8 IP`
+
+:airplane: **Air Units:** (x50) (Requires Aerodrome/Aeroport)
+------------------
+
+**biplanes** - 3 Wood, 2 Steel, £2.000 ¦ 15.000 Manpower ¦ Requires Aerodrome ¦ (Requires Tech 7)
+`2.000 AP - 2.000 DP - 5 MP - 3 IP`
+**zeppelins** - 5 Steel, 2 Wood, 1 Petroil, £2.500 ¦ 10.000 Manpower ¦ Requires Aerodrome ¦ (Requires Tech 7)
+`3.000 AP - 700 DP - 2 MP - 4 IP`
+**fighters** - 5 Steel, 2 Lead, 3 Wood, 3 Petroil, £4.000 ¦ 20.000 Manpower ¦ Requires Aeroport ¦ (Requires Tech 8)
+`4.500 AP - 7.000 DP - 5 MP - 3 IP`
+**bombers** - 7 Steel, 5 Petroil, 5 Lead, £4.500 ¦ 25.000 Manpower ¦ Requires Aeroport ¦ (Requires Tech 8)
+`10.000 AP - 5.000 DP - 2 MP - 2 IP`
+**fighter_jets** - 5 Steel, 5 Petroil, 3 Lead, 1 Gold, £5.500 ¦ 30.000 Manpower ¦ Requires Aeroport ¦ (Requires Tech 9)
+`5.000 AP - 12.500 DP - 6 MP - 4 IP`

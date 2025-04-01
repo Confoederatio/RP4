@@ -1,0 +1,18 @@
+:factory: **factories** - 5 Iron, 10 Stone, 5 Wood, 5 Coal, £10.000 ¦ 50.000 Manpower ¦ Produces 8-12 Actions per turn ¦ (Requires Tech 6)
+:blue_car: **assembly_plants** - 10 Steel, 10 Stone, 5 Petroil, £12.500 ¦ 65.000 Manpower ¦ Produces 12-15 Actions per turn ¦ (Requires Tech 7)
+:hammer_pick: **production_facilities** - 15 Steel, 5 Stone, 5 Petroil, £15.000 ¦ 70.000 Manpower ¦ Produces 15-18 Actions per turn ¦ (Requires Tech 8)
+:man_factory_worker: **industrial_complexes** - 20 Steel, 10 Stone, 15 Petroil, £20.000 ¦ 50.000 Manpower ¦ Produces 18-20 Actions per turn ¦ (Requires Tech 9)
+:office: **financial_centres** - 25 Steel, 10 Stone, 5 Petroil, £25.000 ¦ 25.000 Manpower ¦ Produces 20-25 Actions per turn ¦ (Requires Tech 10)
+
+**Military Buildings:**
+------------------
+:airplane_small: **aerodromes** - 5 Wood, 5 Stone, 3 Petroil, 2 Iron, £30.000 ¦ 10.000 Manpower ¦ Recruits Midgame Air Units ¦ (Requires Tech 7)
+:airplane: **aeroports** - 20 Steel, 15 Stone, 10 Petroil, £50.000 ¦ 70.000 Manpower ¦ Recruits Lategame Air Units ¦ (Requires Tech 8)
+:factory: **artillery_factories** - 5 Iron, 10 Stone, 5 Coal, £2.500 ¦ 50.000 Manpower ¦ Recruits Artillery Units ¦ Starting building
+:articulated_lorry: **auto_plants** - 15 Steel, 10 Stone, 10 Petroil, 5 Coal, £20.000 ¦ 80.000 Manpower ¦ Recruits Armoured Units ¦ (Requires Tech 7)
+:guardsman: **barracks** - 2 Wood, 1 Iron, £2.000 ¦ 100.000 Manpower ¦ Recruits Infantry ¦ Starting building
+:ship: **dockyards** - 5 Wood, 3 Iron, £2.500 ¦ 80.000 Manpower ¦ Recruits Naval Units ¦ Starting building
+
+**Research Buildings:**
+------------------
+:bookmark: **schools** - 3 Wood, 2 Stone, £2.000 ¦ 5.000 Manpower ¦ Produces 10 Knowledge per turn ¦ Starting building

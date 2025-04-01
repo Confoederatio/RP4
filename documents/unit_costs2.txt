@@ -1,0 +1,36 @@
+**siege_artillery** - 3 Iron, 2 Lead, 2 Stone, £2.000 ¦ 20.000 Manpower ¦ (Requires Tech 5)
+`5.000 AP - 50 DP - 1 MP - 3 IP`
+**smoothbores** - 10 Iron, 3 Wood, 5 Lead, £8.000 ¦ 20.000 Manpower ¦ (Requires Tech 6)
+`5.000 AP - 100 DP - 3 MP - 4 IP`
+**railwayguns** - 15 Steel, 5 Iron, 5 Lead, £10.000 ¦ 20.000 Manpower ¦ (Requires Tech 7)
+`7.500 AP - 1.000 DP - 1 MP - 3 IP`
+**field_artillery** - 10 Steel, 5 Lead, £10.000 ¦ 25.000 Manpower ¦ (Requires Tech 8)
+`10.000 AP - 1.000 DP - 3 MP - 5 IP`
+**howitzers** - 15 Steel, 5 Lead, 1 Gold, £15.000 ¦ 25.000 Manpower ¦ (Requires Tech 9)
+`12.500 AP - 700 DP - 3 MP - 4 IP`
+**railguns** - 20 Steel, 5 Petroil, 5 Gold, £20.000 ¦ 25.000 Manpower ¦ (Requires Tech 10)
+`15.000 AP - 1.000 DP - 2 MP - 5 IP`
+
+:articulated_lorry: **Other Ground Units:** (x500)
+------------------
+
+**armoured_cars** - 5 Steel, 3 Petroil, 3 Lead, £10.000 ¦ 25.000 Manpower ¦ (Requires Tech 7)
+`3.000 AP - 6.000 DP - 5 MP - 5 IP`
+**landships** - 7 Steel, 5 Petroil, 5 Lead, £15.000 ¦ 25.000 Manpower ¦ (Requires Tech 7)
+`6.000 AP - 3.000 DP - 3 MP - 6 IP`
+**tanks** - 10 Steel, 5 Petroil, 5 Lead, £20.000 ¦ 25.000 Manpower ¦ (Requires Tech 8)
+`7.500 AP - 5.000 DP - 5 MP - 6 IP`
+**modern_tanks** - 15 Steel, 7 Petroil, 5 Lead, £25.000 ¦ 25.000 Manpower ¦ (Requires Tech 9)
+`8.500 AP - 7.000 DP - 6 MP - 5 IP`
+**mbts** - 20 Steel, 10 Petroil, 5 Lead, 2 Gold, £30.000 ¦ 35.000 Manpower ¦ (Requires Tech 10)
+`10.000 AP - 8.000 DP - 6 MP - 8 IP`
+
+:ship: **Naval Units:** (x10, x5, x1)
+------------------
+
+**caravels** - 2 Wood, 1 Iron, 2 Food, £1.000 ¦ 7.000 Manpower ¦ Starting Unit
+`1.000 AP - 500 DP - 5 MP - 2 IP`
+**galleons** - 3 Wood, 2 Iron, 2 Lead, 3 Food, £1.500 ¦ 10.000 Manpower ¦ (Requires Tech 2)
+`2.000 AP - 1.500 DP - 3 MP - 4 IP`
+**men_of_war** - 5 Wood, 3 Iron, 3 Lead, 3 Food, £3.000 ¦ 15.000 Manpower ¦ (Requires Tech 3)
+`3.500 AP - 2.000 DP - 3 MP - 4 IP`

@@ -1,0 +1,6 @@
+bot_prefix = "$";
+start_date = new Date(2020, 03, 26, 16, 09);
+turn_timer = 14400;
+announcements_channel = "700604701560930365";
+war_channel = "700741562430259250";
+authorised_role = "Ministry of the Interior";
